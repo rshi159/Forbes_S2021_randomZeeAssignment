@@ -4,6 +4,8 @@ Code to create random groupings for zees in Forbes College, Princeton University
 # Files to use. No argument inputs. Change stuff in the script at the top.
 ## randomGrouping_getAllParticipants.py 
 
+looks jank since it's generated from a jupyter notebook.
+
 reads from submissions.csv and outputs a .xlsx file of randomized people in groups of 4. Can change the number 
 of people per group in the top section of code. [TODO] probably should add a main function that takes command line arguments.
 
@@ -13,3 +15,4 @@ is a jupyter notebook that generates some test data from a random list of names.
 
 
 ### Updated 02/21/2021 Robert Shi rs36@princeton.edu
+hmu if you have any questions.
