@@ -12,4 +12,4 @@ of people per group in the top section of code. [TODO] probably should add a mai
 is a jupyter notebook that generates some test data from a random list of names. Randomizes numbers and each person makes 3 submissions.
 
 
-### Updated 02/21/2021 Robert Shi rs36@princeon.edu
+### Updated 02/21/2021 Robert Shi rs36@princeton.edu
