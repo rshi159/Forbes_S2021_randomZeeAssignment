@@ -1,0 +1,4 @@
+Timestamp,Name,Email,Are you on campus (i.e. participating in the University's testing protocol)?,Action
+2/21/2021 14:58:11,test1,t1@princeton.edu,Yes,Put me on the list!
+2/21/2021 14:58:31,test2,t2@gmail.com,"In testing protocol, but off campus",Put me on the list!
+2/21/2021 14:59:05,TeSt     1,t1@princeton.edu,Yes,Take me off of the list!
